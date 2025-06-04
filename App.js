@@ -42,7 +42,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.container}>
-        <Text style={styles.title}>Generador de Recetas con IA</Text>
+        <Text style={styles.title}>EasyFoodApp</Text>
 
         <TextInput
           style={styles.input}
